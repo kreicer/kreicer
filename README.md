@@ -19,3 +19,5 @@ TODO: add projects
 [![Instagram](https://img.shields.io/badge/-Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lulukreicer)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lulukreicer)
 [![facebook](https://img.shields.io/badge/-Facebook-282828?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lulukreicer)
+
+[![Kreicer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreicer&show_icons=true&theme=dracula&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
