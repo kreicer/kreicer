@@ -1,6 +1,6 @@
 [![Header](https://github.com/kreicer/kreicer/blob/main/assets/header.png)](https://www.linkedin.com/in/lulukreicer)
 
-## I am a system administrator who learns the basics of Devops practice and programming.
+## I am a system administrator who learns the basics of DevOps practice and programming.
 
 ### Workin on
 TODO: add projects
@@ -18,6 +18,7 @@ TODO: add projects
 [![Telegram](https://img.shields.io/badge/-Telegram-282828?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/lulukreicer)
 [![Instagram](https://img.shields.io/badge/-Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lulukreicer)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lulukreicer)
-[![facebook](https://img.shields.io/badge/-Facebook-282828?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lulukreicer)
+[![Facebook](https://img.shields.io/badge/-Facebook-282828?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lulukreicer)
+[![Habr Career](https://img.shields.io/badge/-Habr.Career-282828?style=for-the-badge&logo=habr&logoColor=ffffff)](https://career.habr.com/d-listopadov)
 
 [![Kreicer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreicer&show_icons=true&theme=dracula&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
