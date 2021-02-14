@@ -4,7 +4,7 @@
 
 Workin on
 
-Languages and Tools
-![Bash](https://img.shields.io/badge/-Bash-282828?style=for-the-badge&logo=bash)
+### Languages and Tools
+![Bash](https://img.shields.io/badge/-Bash-282828?style=for-the-badge&logo=shell)
 
 Follow me
