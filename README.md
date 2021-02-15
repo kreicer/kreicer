@@ -3,7 +3,7 @@
 ## I am a system administrator who learns the basics of DevOps practice and programming.
 
 ### Workin on
-TODO: add projects
+Self-hosted Discord bot written on Python with DB or/and API connection.
 
 ### Languages and Tools
 ![Bash](https://img.shields.io/badge/-Bash-282828?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
