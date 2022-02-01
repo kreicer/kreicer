@@ -1,6 +1,6 @@
 [![Header](https://github.com/kreicer/kreicer/blob/main/assets/header.png)](https://www.linkedin.com/in/lulukreicer)
 
-## I am a system engineer who learns the DevOps practice and programming.
+## I am an engineer who learns DevOps practice and programming.
 
 ### Workin on
 Self-hosted Discord bot written on Python with DB or/and API connection.
