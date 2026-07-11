@@ -19,3 +19,4 @@ Building reliable, scalable, and production-ready systems.
 - [Telegram](https://t.me/lulukreicer)
 - [LinkedIn](https://www.linkedin.com/in/lulukreicer)
 - [Habr Career](https://career.habr.com/d-listopadov)
+- [Kreicer Dev](https://kreicer.dev)
